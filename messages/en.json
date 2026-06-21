@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "title": "Gord Group Feed — Premium Russian Agriculture, Delivered to the World",
+    "description": "Gord Group Feed is the import and export arm of Gord Group, exporting premium Russian grains, oilseeds, animal feed, and food products to markets across the globe."
+  },
+  "nav": {
+    "wordmark": "GORD GROUP FEED",
+    "subsidiary": "A Gord Group Company",
+    "about": "About",
+    "products": "Products",
+    "markets": "Markets",
+    "howItWorks": "How It Works",
+    "contact": "Contact",
+    "languageLabel": "Language",
+    "menu": "Menu",
+    "close": "Close"
+  },
+  "hero": {
+    "eyebrow": "Gord Group · Agricultural Trade",
+    "headline": "Premium Russian Agriculture, Delivered to the World",
+    "subtext": "Grains, oilseeds, animal feed, and food products — sourced from Russia's heartland and shipped to markets across the globe.",
+    "ctaQuote": "Request a Quote",
+    "ctaProducts": "View Products",
+    "scroll": "Scroll to explore",
+    "videoFallback": "Aerial footage of golden grain fields and cargo shipping operations."
+  },
+  "about": {
+    "eyebrow": "Who We Are",
+    "heading": "Connecting global buyers with Russia's harvest",
+    "body": "Gord Group Feed is the import and export arm of Gord Group, connecting international buyers with Russia's vast agricultural output. Russia is the world's largest wheat exporter and a leading supplier of barley, corn, sunflower oil, and compound animal feed. We manage the entire supply chain — procurement, quality inspection, customs clearance, shipping, and final delivery — so our partners receive reliable volumes, on time, with full documentation.",
+    "stats": {
+      "wheat": { "value": "#1", "label": "Global wheat exporter" },
+      "markets": { "value": "20+", "label": "Destination markets" },
+      "chain": { "value": "End-to-end", "label": "Supply chain control" }
+    }
+  },
+  "products": {
+    "eyebrow": "Our Products",
+    "heading": "A complete agricultural portfolio",
+    "intro": "From bulk grains to specialized animal feed, we supply consistent, inspected, and fully documented commodities at export scale.",
+    "captionDefault": "Export-grade quality · Bulk & containerized shipping available",
+    "categories": {
+      "grains": {
+        "name": "Grains",
+        "items": {
+          "wheat": "Wheat",
+          "barley": "Barley",
+          "corn": "Corn",
+          "oats": "Oats",
+          "rye": "Rye",
+          "buckwheat": "Buckwheat"
+        }
+      },
+      "oilseeds": {
+        "name": "Oilseeds & Oils",
+        "items": {
+          "sunflowerSeeds": "Sunflower Seeds",
+          "sunflowerOil": "Sunflower Oil",
+          "rapeseed": "Rapeseed (Canola)",
+          "soybeans": "Soybeans",
+          "sunflowerMeal": "Sunflower Meal (feed)",
+          "soybeanMeal": "Soybean Meal (feed)"
+        }
+      },
+      "feed": {
+        "name": "Animal Feed",
+        "items": {
+          "poultry": "Poultry Feed",
+          "cattle": "Cattle Feed",
+          "aquaculture": "Aquaculture Feed"
+        }
+      },
+      "other": {
+        "name": "Other Products",
+        "items": {
+          "fish": "Fish & Seafood",
+          "vegetableFats": "Vegetable Fats & Oils",
+          "dairy": "Dairy Products (powdered milk, cheese, cream)"
+        }
+      }
+    }
+  },
+  "markets": {
+    "eyebrow": "Where We Ship",
+    "heading": "A global distribution network",
+    "intro": "We supply buyers across the Middle East, North Africa, Sub-Saharan Africa, Asia, and the CIS countries.",
+    "regions": {
+      "middleEast": {
+        "name": "Middle East",
+        "countries": "Saudi Arabia, UAE, Kuwait, Qatar, Oman, Yemen"
+      },
+      "northAfrica": {
+        "name": "North Africa",
+        "countries": "Egypt, Libya, Algeria, Morocco"
+      },
+      "subSaharan": {
+        "name": "Sub-Saharan Africa",
+        "countries": "Sudan, Ethiopia, Nigeria"
+      },
+      "asia": {
+        "name": "Asia",
+        "countries": "China, Pakistan, Bangladesh"
+      },
+      "cis": {
+        "name": "CIS Countries",
+        "countries": "Commonwealth of Independent States"
+      }
+    }
+  },
+  "how": {
+    "eyebrow": "How It Works",
+    "heading": "From inquiry to delivery",
+    "intro": "A clear, documented process that gives buyers full visibility at every stage.",
+    "steps": {
+      "1": "You share your product and quantity requirements",
+      "2": "We provide pricing, availability, and shipping timeline",
+      "3": "We sign a supply agreement",
+      "4": "We procure, inspect, and prepare the shipment in Russia",
+      "5": "We handle customs, freight, and documentation",
+      "6": "Goods arrive at your designated port"
+    }
+  },
+  "quote": {
+    "eyebrow": "Get a Quote",
+    "heading": "Request pricing and availability",
+    "intro": "Tell us what you need and our trade desk will prepare a tailored offer.",
+    "responseNote": "We respond within 24 hours.",
+    "form": {
+      "name": "Full name",
+      "namePlaceholder": "Your name",
+      "company": "Company",
+      "companyPlaceholder": "Company name",
+      "country": "Country",
+      "countryPlaceholder": "Destination country",
+      "product": "Product of interest",
+      "productPlaceholder": "e.g. Milling wheat, sunflower oil",
+      "quantity": "Estimated quantity (tons)",
+      "quantityPlaceholder": "e.g. 25,000",
+      "message": "Message",
+      "messagePlaceholder": "Shipping terms, delivery port, timeline, or any other details",
+      "submit": "Request a Quote",
+      "success": "Thank you. Our trade desk will respond within 24 hours."
+    }
+  },
+  "footer": {
+    "wordmark": "GORD GROUP FEED",
+    "subsidiary": "A Gord Group Company",
+    "tagline": "We build partnerships. We deliver results.",
+    "quickLinksTitle": "Quick Links",
+    "contactTitle": "Contact",
+    "email": "gordgroup@gordgroup.com",
+    "phone": "+7 936 666 0295",
+    "address": "City of Capitals Business Center, Presnenskaya Embankment 8, Moscow, Russia",
+    "copyright": "© 2026 Gord Group Feed — LLC Gord Group"
+  }
+}
