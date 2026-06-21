@@ -27,7 +27,7 @@ export function ProductsSection() {
                     <div className="relative aspect-[4/3] overflow-hidden border-b border-border bg-muted">
                       {/* PLACEHOLDER: AI-generated product photograph */}
                       <img
-                        src={`/products/${PRODUCT_IMAGE[item]}.jpg`}
+                        src={`/products/${PRODUCT_IMAGE[item]}.webp`}
                         alt={t(`categories.${category.key}.items.${item}`)}
                         className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
                         loading="lazy"
