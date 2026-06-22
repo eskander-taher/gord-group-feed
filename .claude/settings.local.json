@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npx tsc *)"
+      "Bash(npx tsc *)",
+      "Bash(npx next *)",
+      "Bash(node -e \"JSON.parse\\(require\\('fs'\\).readFileSync\\('messages/en.json'\\)\\); JSON.parse\\(require\\('fs'\\).readFileSync\\('messages/ar.json'\\)\\); console.log\\('ok'\\)\")",
+      "Bash(pnpm add *)"
     ]
   }
 }

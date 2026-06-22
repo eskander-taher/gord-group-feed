@@ -9,6 +9,7 @@
     "about": "About",
     "products": "Products",
     "markets": "Markets",
+    "partners": "Partners",
     "howItWorks": "How It Works",
     "contact": "Contact",
     "languageLabel": "Language",
@@ -105,6 +106,30 @@
         "name": "CIS Countries",
         "countries": "Commonwealth of Independent States"
       }
+    }
+  },
+  "partners": {
+    "eyebrow": "Affiliated Businesses",
+    "heading": "Our partners on the ground",
+    "intro": "Beyond Russian-origin trade, we work with established affiliated businesses across the Horn of Africa and the Arabian Peninsula to distribute and stock products closer to local markets.",
+    "mapCaption": "Djibouti · Salalah, Oman · Yemen",
+    "locationsLabel": "Locations",
+    "companies": {
+      "topFoods": {
+        "name": "Top Foods",
+        "description": "Affiliated distribution partner stocking and supplying grains, feed, and food products into the Djibouti market and the wider Horn of Africa corridor.",
+        "locations": "Djibouti"
+      },
+      "alshater": {
+        "name": "Alshater",
+        "description": "Affiliated distribution partner serving Yemen and the southern Omani coast, supplying grains, feed, and food products to local buyers.",
+        "locations": "Yemen, Salalah (Oman)"
+      }
+    },
+    "locationNames": {
+      "djibouti": "Djibouti",
+      "yemen": "Yemen",
+      "salalah": "Salalah, Oman"
     }
   },
   "how": {

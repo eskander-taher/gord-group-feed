@@ -15,7 +15,7 @@ export function Hero() {
         loop
         muted
         playsInline
-        poster="/images/hero-poster.png"
+        // poster="/images/hero-poster.png"
         aria-label={t("videoFallback")}
       >
         {/* PLACEHOLDER: swap with AI-generated footage of golden grain fields / harvest / cargo shipping */}

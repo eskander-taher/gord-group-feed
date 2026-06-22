@@ -5,6 +5,7 @@ const QUICK_LINKS = [
   { key: "about", href: "#about" },
   { key: "products", href: "#products" },
   { key: "markets", href: "#markets" },
+  { key: "partners", href: "#partners" },
   { key: "contact", href: "#contact" },
 ] as const
 

@@ -10,6 +10,7 @@ const NAV_ITEMS = [
   { key: "about", href: "#about" },
   { key: "products", href: "#products" },
   { key: "markets", href: "#markets" },
+  { key: "partners", href: "#partners" },
   { key: "howItWorks", href: "#how-it-works" },
   { key: "contact", href: "#contact" },
 ] as const
