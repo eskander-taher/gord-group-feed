@@ -45,11 +45,19 @@ export function SiteFooter() {
               </a>
             </li>
             <li className="flex items-start gap-3">
-              <Phone className="mt-0.5 h-4 w-4 shrink-0 text-sage" aria-hidden />
-              <a href={`tel:${t("phone").replace(/\s/g, "")}`} className="transition-colors hover:text-gold" dir="ltr">
-                {t("phone")}
+              <Mail className="mt-0.5 h-4 w-4 shrink-0 text-sage" aria-hidden />
+              <a href={`mailto:${t("emailGroup")}`} className="transition-colors hover:text-gold" dir="ltr">
+                {t("emailGroup")}
               </a>
             </li>
+            {t.raw("phones").map((phone: string) => (
+              <li key={phone} className="flex items-start gap-3">
+                <Phone className="mt-0.5 h-4 w-4 shrink-0 text-sage" aria-hidden />
+                <a href={`tel:${phone.replace(/\s/g, "")}`} className="transition-colors hover:text-gold" dir="ltr">
+                  {phone}
+                </a>
+              </li>
+            ))}
             <li className="flex items-start gap-3">
               <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-sage" aria-hidden />
               <span className="leading-relaxed">{t("address")}</span>
